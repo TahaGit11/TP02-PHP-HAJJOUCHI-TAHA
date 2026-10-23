@@ -1,6 +1,8 @@
 # TP02-PHP-HAJJOUCHI-TAHA
 TP 02 PHP — Programmation Web 2 — 2026/2027
+
 Taha HAJJOUCHI
+
 Le groupe: G01
 
 # Les 10 exercices
