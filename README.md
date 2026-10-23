@@ -243,3 +243,6 @@ $notes = [
 Aides : isset() vérifie la présence d'une clé ; trim() permet de repérer une chaîne composée seulement d'espaces ; htmlspecialchars($valeur, ENT_QUOTES, 'UTF-8') protège l'affichage HTML. Utiliser des noms de champs identiques dans le formulaire et dans le traitement. 
 
 Vérification : les deux méthodes fonctionnent ; les champs vides sont signalés ; les pages de traitement restent lisibles lorsqu'elles sont ouvertes directement. 
+
+
+
